@@ -106,8 +106,8 @@ A: Python 3.9+, PyOpenGL, SQLite, and Pytest.
 **🤝 Contact**
 --------------
 
-* Email: [yusufadell.dev@gmail.com](mailto:your-email@example.com)
-* Twitter: [@WHYUSUF_](https://twitter.com/your-twitter-handle)
+* Email: [yusufadell.dev@gmail.com](mailto:yusufadell.dev@gmail.com)
+* Twitter: [@WHYUSUF_](https://twitter.com/WHYUSUF_)
 
 **💎 Acknowledgements**
 ---------------------
