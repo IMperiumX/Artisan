@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "artisan3d"
 version = "0.1.0"
 description = "3D Artisan is a 3D modeling application that allows users to create, edit, and manage 3D models and scenes. The application is built using Python and provides an intuitive and user-friendly interface for users to interact with 3D models and scenes."
-readme = "README.rst"
+readme = "README.md"
 authors = [
   {name = "Yusuf Adel", email = "yusufadell.dev@gmail.com"}
 ]
