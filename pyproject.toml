@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "artisan3d"
+name = "artisan"
 version = "0.1.0"
 description = "3D Artisan is a 3D modeling application that allows users to create, edit, and manage 3D models and scenes. The application is built using Python and provides an intuitive and user-friendly interface for users to interact with 3D models and scenes."
 readme = "README.md"
@@ -31,9 +31,9 @@ dev = [
 
 [project.urls]
 
-bugs = "https://github.com/imperiumx/artisan3d/issues"
-changelog = "https://github.com/imperiumx/artisan3d/blob/master/changelog.md"
-homepage = "https://github.com/imperiumx/artisan3d"
+bugs = "https://github.com/imperiumx/artisan/issues"
+changelog = "https://github.com/imperiumx/artisan/blob/master/changelog.md"
+homepage = "https://github.com/imperiumx/artisan"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
@@ -60,4 +60,3 @@ warn_no_return = true
 module = "tests.*"
 allow_untyped_defs = true
 disable_error_code = "attr-defined"
-

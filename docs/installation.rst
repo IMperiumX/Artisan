@@ -12,7 +12,7 @@ To install 3D Artisan, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install artisan3d
+    $ pip install artisan
 
 This is the preferred method to install 3D Artisan, as it will always install the most recent stable release.
 
@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/imperiumx/artisan3d
+    $ git clone git://github.com/imperiumx/artisan
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/imperiumx/artisan3d/tarball/master
+    $ curl -OJL https://github.com/imperiumx/artisan/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/imperiumx/artisan3d
-.. _tarball: https://github.com/imperiumx/artisan3d/tarball/master
+.. _Github repo: https://github.com/imperiumx/artisan
+.. _tarball: https://github.com/imperiumx/artisan/tarball/master

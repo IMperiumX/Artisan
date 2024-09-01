@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = artisan3d
+SPHINXPROJ    = artisan
 SOURCEDIR     = .
 BUILDDIR      = _build
 

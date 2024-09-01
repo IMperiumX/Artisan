@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 
-"""Tests for `artisan3d` package."""
+"""Tests for `artisan` package."""
 
 import pytest
 
 
-from artisan3d import artisan3d
+from artisan import artisan
 
 
 @pytest.fixture

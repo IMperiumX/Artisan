@@ -1,1 +1,1 @@
-"""Unit test package for artisan3d."""
+"""Unit test package for artisan."""
